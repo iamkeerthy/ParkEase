@@ -2,7 +2,7 @@
 
 ParkEase is a web-based application designed to help users easily identify available parking slots in real-time. This platform streamlines the parking experience by providing users with information about parking availability, making it easier to find and reserve parking spaces.
 
-![ParkEase Screenshot](./path/to/your-screenshot.png)
+![ParkEase Screenshot](https://github.com/iamkeerthy/ParkEase/blob/main/parkease.jpg)
 
 ## Project Aim 🎯
 To develop a user-friendly web application that allows users to efficiently find and manage parking slots, enhancing their overall parking experience.
